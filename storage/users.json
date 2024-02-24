@@ -1,0 +1,36 @@
+{
+    "65a59163d815d": {
+        "username": "admin",
+        "email": "admin",
+        "password": "$2y$10$Sb2ENC6nUbW1rxIjMY7NJuBSMwE\/Lb.YNbA1TdUpioUQ6CKLSdhDq",
+        "money": -1,
+        "ownedCards": -1,
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "id": "65a59163d815d"
+    },
+    "65a593ae704b1": {
+        "username": "janika",
+        "email": "janika@gmail.com",
+        "password": "$2y$10$2iaZs2fhrlgmwC3L\/ZNX.O7o7IMarVeh1hXWX2blNcU10XI2SsfO.",
+        "money": 280.7,
+        "ownedCards": 2,
+        "roles": [
+            "user"
+        ],
+        "id": "65a593ae704b1"
+    },
+    "65a5952664596": {
+        "username": "jozsika",
+        "email": "jozsika@gmail.com",
+        "password": "$2y$10$OeQ8Dy3WXakPQqnGdmIjYe4iuYxU4eIobxsizWcz8IGSXzVvkiXaS",
+        "money": 400,
+        "ownedCards": 5,
+        "roles": [
+            "user"
+        ],
+        "id": "65a5952664596"
+    }
+}
